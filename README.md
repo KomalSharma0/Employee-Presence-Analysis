@@ -34,7 +34,7 @@ The analysis helps the company optimize scheduling for activities, product launc
 
 ## Steps Involved
 This project was developed following a structured approach:
-1. **Data Collection:** Acquired 3 months of employee attendance data (April 2022 to June 2022). [View Data Source]()
+1. **Data Collection:** Acquired 3 months of employee attendance data (April 2022 to June 2022). [View Data Source](https://github.com/KomalSharma0/Employee-Presence-Analysis/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx)
 2. **Data Walkthrough:** Conducted an initial exploration of the dataset to understand the structure, key metrics, and the insights the HR team required.
 3. **Data Importing:** Imported the collected data into Power BI for further analysis and visualization.
 4. **Data Cleaning:** Cleaned the data by merging data from all the sheets, handling missing values and ensuring consistency in the dataset.
@@ -68,12 +68,12 @@ Through this project, I gained the following technical and analytical skills:
 ## Dashboard Demo
 You can find a screenshot showcasing the sales analysis and key insights here:
 
-![Dashboard Screenshot 1](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
-![Dashboard Screenshot 2](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard2.png)
-![Dashboard Screenshot 3](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard3.png)
-![Dashboard Screenshot 4](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard4.png)
+![Dashboard Screenshot 1](https://github.com/KomalSharma0/Employee-Presence-Analysis/blob/main/Employee%20Presence%20Dashboard1.png)
+![Dashboard Screenshot 2](https://github.com/KomalSharma0/Employee-Presence-Analysis/blob/main/Employee%20Presence%20Dashboard2.png)
+![Dashboard Screenshot 3](https://github.com/KomalSharma0/Employee-Presence-Analysis/blob/main/Employee%20Presence%20Dashboard3.png)
+![Dashboard Screenshot 4](https://github.com/KomalSharma0/Employee-Presence-Analysis/blob/main/Employee%20Presence%20Dashboard4.png)
 
-Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Hardware%20Sales%20Dashboard.pbix).
+Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0/Employee-Presence-Analysis/blob/main/Employee%20Presence%20Analysis%20Dashboard.pbix).
 
 ## Conclusion
 This project was created as a guided HR analytics project using Power BI, with reference to the Codebasics YouTube channel. The analysis provides actionable insights that help AtliQ Technologies optimize team-building activities, work-from-home arrangements, and space utilization. By implementing the insights gained, AtliQ Technologies can plan more efficiently and reduce costs associated with office space and infrastructure.
